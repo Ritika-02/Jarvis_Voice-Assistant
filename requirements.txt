@@ -1,0 +1,6 @@
+speechrecognition
+PyAudio
+googletrans==4.0.0rc1
+pyttsx3
+selenium==4.1.3
+
